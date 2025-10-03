@@ -1,0 +1,28 @@
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background - dark teal/black gradient -->
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a4d3c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0a1a1f;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="16" height="16" fill="url(#bgGrad)"/>
+  
+  <!-- Pixel art J in bright cyan/green -->
+  <!-- Top horizontal part -->
+  <rect x="6" y="3" width="2" height="2" fill="#00ffaa"/>
+  <rect x="8" y="3" width="2" height="2" fill="#00ffaa"/>
+  <rect x="10" y="3" width="2" height="2" fill="#00ffaa"/>
+  
+  <!-- Vertical stem -->
+  <rect x="10" y="5" width="2" height="2" fill="#00ffaa"/>
+  <rect x="10" y="7" width="2" height="2" fill="#00ffaa"/>
+  <rect x="10" y="9" width="2" height="2" fill="#00ffaa"/>
+  
+  <!-- Curve at bottom -->
+  <rect x="8" y="11" width="2" height="2" fill="#00ffaa"/>
+  <rect x="6" y="11" width="2" height="2" fill="#00ffaa"/>
+  
+  <!-- Bottom hook -->
+  <rect x="4" y="9" width="2" height="2" fill="#00ffaa"/>
+</svg>
